@@ -1,5 +1,5 @@
 # About Me:
-I am a 3rd-year computer science student with a passion for exploring and mastering technologies. I'm committed to continuous learning and driven by a desire to empower those around me. 
+I am a final year computer science student with a passion for exploring and mastering technologies. I'm committed to continuous learning and driven by a desire to empower those around me. 
 
 
 ## Socials:
