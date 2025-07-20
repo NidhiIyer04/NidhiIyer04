@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Header.png" alt="Header" style="max-width: 100%; width: 100%;" />
+  <img src="assets/Header_2.png" alt="Header" style="max-width: 100%; width: 100%;" />
 </p>
 
 <p align="center">
