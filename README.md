@@ -8,15 +8,20 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NidhiIyer04&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NidhiIyer04&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NidhiIyer04&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="400px" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=NidhiIyer04&theme=dracula&hide_border=false" width="400px" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github.com/NidhiIyer04/NidhiIyer04/blob/output/github-snake-dark.svg" alt="snake gif"/>
 </p>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NidhiIyer04&icon=0&color=0)](https://visitcount.itsvg.in)
